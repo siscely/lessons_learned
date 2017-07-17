@@ -1,0 +1,4 @@
+- Command line to manipulate data.
+- Fundamentals of HTML and CSS.
+- HTML5, CSS3, HTML tags, form elements, attributes, input types, CSS styling.
+- Git version control.
